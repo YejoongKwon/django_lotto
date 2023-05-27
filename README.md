@@ -1,3 +1,3 @@
-## This is the repository for lotto-num-generator
+## This is the repository for website making
 -requirements
- : Django, python
+ : Django, python, Javascript
